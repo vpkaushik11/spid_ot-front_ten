@@ -1,0 +1,55 @@
+html{
+    font-size: 20px;
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: rgb(65,65,65);
+    border: 5px solid black;   
+   }
+body{
+    background-color: teal;
+    color: white;
+    padding: 30px;
+    border: 5px solid black;
+    margin: 15px  rgb(65,65,65);
+}
+header{
+    padding: 3px;
+    background-color: black;
+    border-radius: 25px;
+    border: solid black 2px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+h1{
+    background-color: rgb(65,65,65);
+    padding: 15px;
+    border-radius: 15px;
+    margin: 3px;
+    border: solid black 2px;
+    text-align: center;
+}
+
+#canvas{
+    background-color: #000000;
+    color: white;
+    display: block;
+    border-radius: 30px;
+}
+#block{
+    margin-bottom: 20px;
+    padding: 20px;
+}
+#rules{
+    margin-bottom: 20px;
+    padding: 20px;
+}
+td{
+    margin: 10px;
+    padding: 5px;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #404040;
+    color: white;
+}
+/* #404040 */
